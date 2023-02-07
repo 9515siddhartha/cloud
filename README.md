@@ -44,3 +44,4 @@ chmod o-rwx,g-rwx "$file"
 # Set all permissions for the owner
 chmod u+rwx "$file"
 done
+.....
